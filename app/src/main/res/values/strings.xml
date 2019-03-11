@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mncbrains</string>
+
+
+    <!--Identifiants Ad Mob-->
+    <string name="adAppId">ca-app-pub-7286879650571118~9216827895</string>
 </resources>
